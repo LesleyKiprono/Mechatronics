@@ -39,9 +39,10 @@ grade_2 = 5
 grade_3 = grade_1 + grade_2
 print(grade_3)
 
+#arithmetic equations
 
 
-#assignment 
-#calculate speed of a vehicle
-# volume and surface area of a cylinder
-# calculate the pressure applied to a surface when a force of 120N acts on a square surface of 200cm
+
+
+
+

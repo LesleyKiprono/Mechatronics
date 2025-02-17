@@ -30,3 +30,8 @@ print(math.cos(angle))
 print(math.sin(angle))
 print(math.tan(angle))
 print(math.pow(2,3))
+
+
+
+
+
