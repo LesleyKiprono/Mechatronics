@@ -1,0 +1,9 @@
+This is my file
+It contains my names
+Lesley
+Limo
+Kenya
+
+
+
+Its fun learning file operations
